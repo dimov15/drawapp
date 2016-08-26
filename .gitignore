@@ -1,0 +1,5 @@
+*.class 
+*.jpg
+!*.txt
+!*.java
+/docs/*
